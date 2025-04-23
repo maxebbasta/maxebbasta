@@ -1,4 +1,4 @@
-# 👨‍💻 Massimo "Max" Modesti  
+# 👨‍💻 Massimo Modesti
 **Automation Engineer | Embedded Systems Nerd | Code & Circuit Lover**
 
 Hey! I’m Max — a proud nerd who genuinely *loves* automation, robotics, and all the magic that happens when code meets electronics.
